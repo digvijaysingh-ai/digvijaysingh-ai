@@ -7,6 +7,13 @@ earn their place, and an evaluation behind every model claim.
 
 **Portfolio:** [djcrafted.com](https://djcrafted.com) · [LinkedIn](https://www.linkedin.com/in/digvijaykhasa/)
 
+**[Growth OS](https://github.com/digvijaysingh-ai/growth-os)**: an AI growth team on Claude. Six agents
+find what changed and what it costs, route each decision to the role that approves it, act through a
+fixed action catalogue and check whether it worked. On three synthetic businesses it had never seen it
+passed 37 of 45 graded checks and gained gross profit on all three (+2.7 % to +4.6 %, simulated); a
+weekly run takes 5 minutes and $2.26. The live deck lets you approve or reject its 12 decisions, and one
+of them should be rejected. [Live deck](https://djcrafted.com/growth-os/) · [Case study](https://djcrafted.com/work/growth-os/)
+
 **[voiceops](https://github.com/digvijaysingh-ai/voiceops)**: the deployment kit I extracted from
 Slotback: safety defaults for voice agents, a release gate, a signed audit ledger and real-call review,
 on PyPI. A second, different deployment ([claims-surge](https://github.com/digvijaysingh-ai/claims-surge))
@@ -38,4 +45,4 @@ an H3 grid, unit economics with downside and upside cases, ranked by payback.
 [Forward deployment for a 20-person business](https://djcrafted.com/writing/forward-deployment-small-business/) ·
 [The business case is the first prototype](https://djcrafted.com/writing/business-case-first-prototype/)
 
-Python · ElevenLabs Agents · DuckDB · Streamlit · LLM evaluation · geospatial (H3, OSM) · TypeScript and Three.js for the web
+Python · Claude agents and MCP · ElevenLabs Agents · DuckDB · Streamlit · LLM evaluation · geospatial (H3, OSM) · TypeScript and Three.js for the web
